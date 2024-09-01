@@ -11,8 +11,8 @@ export default function Page() {
         alignItems: "center",
       }}
     >
-     <Link href="/sign-in">Sign In</Link>
-     <Link href="/profile">Profile</Link>
+      
+      <Text>Home</Text>
 
     </View>
   );
